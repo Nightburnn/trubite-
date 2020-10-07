@@ -1,4 +1,5 @@
-# trubite-https://github.com/Nightburnn/trubite-/issues/1#issue-716476314
+# trubite
+-https://github.com/Nightburnn/trubite-/issues/1#issue-716476314
 <div id="main">
 	<h1 id="title">Marilyn Monroe</h1>
 	<h2>Actress, Model and singer </h2>
